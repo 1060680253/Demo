@@ -1,3 +1,7 @@
 {
-  "shutdown": false
+     "code": 0,
+     "data": {
+          "shutdown": false
+     },
+     "msg": ""
 }
